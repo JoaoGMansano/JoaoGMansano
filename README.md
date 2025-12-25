@@ -2,9 +2,13 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo João Guilherme, atuo como **Back-End Developer** focado em **Node.js e TypeScript**.  
-Tenho **mais de 4 anos de experiência com programação**, incluindo projetos anteriores em **PHP**, e atualmente concentro meus estudos e práticas no desenvolvimento de **APIs robustas, seguras e escaláveis**.  
-Sou apaixonado por criar soluções eficientes que dão suporte a aplicações modernas e de alto desempenho. Meu objetivo é evoluir constantemente como desenvolvedor e transformar ideias em sistemas que impactam positivamente pessoas e negócios.  
+Me chamo João Guilherme, tenho **17 anos** e atuo como **Back-End Developer**.  
+Iniciei meus estudos em programação **no começo de 2025** e venho me dedicando diariamente à construção de **APIs robustas, seguras e escaláveis**.
+
+Tenho experiência prática com **Node.js e TypeScript**, além de conhecimentos em **HTML, CSS e JavaScript** para integração e entendimento do funcionamento completo das aplicações.  
+Atualmente, estou estudando **Java, Docker e Python**, buscando evoluir cada vez mais na criação de sistemas modernos, bem estruturados e preparados para produção.
+
+Sou apaixonado por tecnologia e por transformar ideias em soluções que realmente funcionam e geram impacto positivo.
 
 <p align="left">
     <a href="https://www.instagram.com/threadlinedevelopers" target="_blank">
@@ -25,83 +29,15 @@ Sou apaixonado por criar soluções eficientes que dão suporte a aplicações m
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
-
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP (experiência anterior)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express.js"
-    title="Express.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-
-<br/>
-<br/>
+### 📚 Tecnologias em estudo e prática
+- Node.js  
+- TypeScript  
+- JavaScript  
+- HTML  
+- CSS  
+- Python  
+- Java ☕  
+- Docker 🐳  
 
 ---
 
