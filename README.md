@@ -2,13 +2,6 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo João Guilherme, tenho **17 anos** e atuo como **Back-End Developer**.  
-Iniciei meus estudos em programação **no começo de 2025** e venho me dedicando diariamente à construção de **APIs robustas, seguras e escaláveis**.
-
-Tenho experiência prática com **Node.js e TypeScript**, além de conhecimentos em **HTML, CSS e JavaScript** para integração e entendimento do funcionamento completo das aplicações.  
-Atualmente, estou estudando **Java, Docker e Python**, buscando evoluir cada vez mais na criação de sistemas modernos, bem estruturados e preparados para produção.
-
-Sou apaixonado por tecnologia e por transformar ideias em soluções que realmente funcionam e geram impacto positivo.
 
 <p align="left">
     <a href="https://www.instagram.com/threadlinedevelopers" target="_blank">
@@ -29,13 +22,10 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções que realmen
 
 ---
 
-### 📚 Tecnologias em estudo e prática
-- Node.js  
-- TypeScript  
+### 📚 Tecnologias em estudo e prática 
 - JavaScript  
 - HTML  
-- CSS  
-- Python  
+- CSS   
 - Java ☕  
 - Docker 🐳  
 
